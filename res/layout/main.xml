@@ -12,6 +12,6 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:onClick="callLongFunction"
-        android:text="Call Long Function" />
+        android:text="@string/call_long" />
 
 </RelativeLayout>

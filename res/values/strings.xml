@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, TraceviewExampleActivity!</string>
     <string name="app_name">TraceviewExample</string>
+    <string name="call_long">Call Long Function</string>
 
 </resources>
